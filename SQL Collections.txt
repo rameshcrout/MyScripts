@@ -1,1 +1,1 @@
-Select * from Employee
+Select * from Patient
